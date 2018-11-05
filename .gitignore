@@ -1,3 +1,8 @@
+# Image File
+*.png
+*.jpeg
+*.jpg
+
 MANIFEST
 build
 dist
