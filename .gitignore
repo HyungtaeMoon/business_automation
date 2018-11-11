@@ -3,6 +3,7 @@
 *.jpeg
 *.jpg
 *.csv
+*.xlsx
 
 MANIFEST
 build

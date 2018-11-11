@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 notebook = "*"
+pandas = "*"
+tablib = "*"
+openpyxl = "*"
 
 [dev-packages]
 
