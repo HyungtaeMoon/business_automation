@@ -8,6 +8,7 @@ notebook = "*"
 pandas = "*"
 tablib = "*"
 openpyxl = "*"
+requests = "*"
 
 [dev-packages]
 
